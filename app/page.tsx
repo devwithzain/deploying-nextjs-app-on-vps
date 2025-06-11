@@ -23,7 +23,9 @@ export default function Home() {
 					<li className="tracking-[-.01em]">
 						Save and see your changes instantly.
 					</li>
-					<li className="tracking-[-.01em]">First Change on vps server.</li>
+					<li className="tracking-[-.01em]">
+						First Change on vps server. By devwithzain.
+					</li>
 				</ol>
 
 				<div className="flex gap-4 items-center flex-col sm:flex-row">
