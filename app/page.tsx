@@ -24,7 +24,7 @@ export default function Home() {
 						Save and see your changes instantly.
 					</li>
 					<li className="tracking-[-.01em]">
-						First Change on vps server. By devwithzain.
+						First Change on vps server. By umairkhan.
 					</li>
 				</ol>
 
